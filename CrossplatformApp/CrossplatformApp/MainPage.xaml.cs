@@ -41,7 +41,7 @@ namespace CrossplatformApp
                     //when the perform button is clicked
                     if (output == true)
                     {
-
+                        //calling the method when perform again button is clicked
                         clearingAll();
                     }
                     //otherwise
